@@ -1,0 +1,15 @@
+{
+  "name": "copes-express",
+  "version": "1.0.0",
+  "description": "projeto express do livro",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Renato",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.6.0"
+  }
+}
